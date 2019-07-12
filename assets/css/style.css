@@ -3,3 +3,12 @@
     text-align: center;
     border-radius: 10px;
 }
+
+.my-row {
+    margin: 20px;
+}
+
+.profile {
+    height: 200px;
+    width: 200px;
+}
