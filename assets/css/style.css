@@ -16,12 +16,6 @@ h1 {
     margin: 20px;
 }
 
-.profile {
-    height: 200px;
-    width: 200px;
-    float: left;
-}
-
 .btn-primary {
     background-color: #4aaaa5;
     border-color: #777;
