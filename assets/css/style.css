@@ -1,15 +1,22 @@
 body {
-    background: url("assets/images/fishnets-and-hearts.png")
+    background-color: #777;
 }
 
 h1 {
     color: #4aaaa5;
 }
 
+.main-container {
+    background-color: #fff;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+
 .foot {
     background-color:#4aaaa5;
     text-align: center;
-    border-top: 5px solid #777;
+    border-top: 5px solid #fff;
 }
 
 .my-row {
