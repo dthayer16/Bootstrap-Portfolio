@@ -1,5 +1,5 @@
 body {
-    background-color: #777;
+    background-image: url("../images/background.jpeg");
 }
 
 h1 {
@@ -9,6 +9,7 @@ h1 {
 .main-container {
     background-color: #fff;
     margin-top: 20px;
+    margin-bottom: 20px;
     border-radius: 10px;
 }
 
@@ -17,6 +18,9 @@ h1 {
     background-color:#4aaaa5;
     text-align: center;
     border-top: 5px solid #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 .my-row {
